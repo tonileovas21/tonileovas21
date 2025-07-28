@@ -3,9 +3,9 @@
 
 ###
 ![tonileolivas](img/github-header-image.png)
-<h3 align="center">A passionate Networking Enginer and Cyber security from Timor-Leste</h3>
+##<h3 align="center">A passionate Networking Enginer and Cyber security from Timor-Leste</h3>
 
-<h3 align="center">Skills</h3>
+#<h3 align="center">Skills</h3>
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
 
