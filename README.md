@@ -7,13 +7,9 @@
 
 <h3 align="center">Skills</h3>
 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
 
-<img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
-
-<img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white">
-
-<img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+<img src="https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white"> <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white">
 
 <h3 align="center">esperience in platform:</h3>
