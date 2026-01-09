@@ -28,7 +28,9 @@
 </div>
 
 ## My Github start
-![tonileovas21 GitHub stats](https://github-readme-stats.vercel.app/api?username=tonileovas21&hide=contribs,prs)
 
+
+![ronileovas21 GitHub stats](https://github-readme-stats.vercel.app/api?username=tonileovas21)
+</div>
 
 ###
