@@ -32,11 +32,6 @@
 
 </div>
 
-<h2 alig=left>play game with me</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tonileovas21/tonileovas21/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tonileovas21/tonileovas21/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tonileovas21/tonileovas21/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
