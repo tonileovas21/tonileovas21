@@ -49,8 +49,6 @@
   
 </div>
 
-
-
 ## 🛡️ About Me
 
 - 🔭 **Saat ini sedang fokus:** Cyber Security (GRC, Blue Team) & Network Infrastructure
@@ -58,6 +56,6 @@
 - 🎯 **Aktivitas:** Aktif bermain CTF & membangun Security Lab (Wazuh, Kali Linux)
 - 🎓 **Latar Belakang:** Bachelor in Informatics Engineering | Cisco Networking Academy
 
-## My Github start
+
 
 ###
