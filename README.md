@@ -9,6 +9,14 @@
 
 
 ## <h3 align="center">A passionate Networking Enginer and Cyber security from Timor-Leste</h3>
+
+## 🛡️ About Me
+
+- 🔭 **Agora foku liu ba:** Cyber Security (GRC,SOC, Blue Team) & Network Infrastructure
+- 💼 **Esperensia servisu:** junior Network Engineering,IT support, Router/Switch Configuration (Cisco, MikroTik)
+- 🎯 **Aktividade:** Aktif bermain CTF & membangun Security Lab (Wazuh, Kali Linux)
+- 🎓 **Bacground Edukasaun:** Bachelor in Informatics Engineering in IOB| Cisco Networking Academy |Siber Muda ID
+  
 ## <h3 align="center">Skills</h3>
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
@@ -49,12 +57,7 @@
   
 </div>
 
-## 🛡️ About Me
 
-- 🔭 **Saat ini sedang fokus:** Cyber Security (GRC, Blue Team) & Network Infrastructure
-- 💼 **Pengalaman:** Network Engineering, Router/Switch Configuration (Cisco, MikroTik)
-- 🎯 **Aktivitas:** Aktif bermain CTF & membangun Security Lab (Wazuh, Kali Linux)
-- 🎓 **Latar Belakang:** Bachelor in Informatics Engineering | Cisco Networking Academy
 
 
 
